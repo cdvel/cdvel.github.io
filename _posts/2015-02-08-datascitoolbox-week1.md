@@ -1,7 +1,12 @@
+---
+title: Data Scientist's Toolbox - Week 1
+layout: post
+---
 #Data Scientist's Toolbox - 
-####Week 1 (Overview)
-##Overview
 
+**Week 1 (Overview)**
+
+##Overview
 ###What a data scientist do?
 
 1. question
@@ -64,12 +69,14 @@ scattered information >> hacking skills needed
 ##R Programming Overview
 
 ### reading a text file
+
 ```R
 con <-url("uri")
 x <- readLines(con)
 >head(x)
 ```
 ### apply function to all elements
+
 ```R
 lapply(list, function, args) 
 ```
@@ -84,6 +91,7 @@ lapply(list, function, args)
 - download 
 - reading: XLS, JSON, MySQL, ...
 	- listing DBs
+
 	```R
 	db <-  dbConnect(MySQL(), user="me", host="127.0.0.1")
 	result <- dbGetQuery(db, "show databases;")
@@ -91,6 +99,7 @@ lapply(list, function, args)
 	result
 	```
 - merging
+
 	```R
 	merged <- merge(review, soulutions, by.x = "sol_id", by.y = "id", all=TRUE)
 	head(merged[,1:6], 3)
