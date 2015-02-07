@@ -7,6 +7,7 @@ layout: post
 **Week 1 (Overview)**
 
 ##Overview
+
 ###What a data scientist do?
 
 1. question
@@ -51,7 +52,6 @@ args("rnorm")
 4. What you see
 5. Other solutions?
 
-
 ##Finding Answers
 
 ![data science venn](http://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png?format=750w "drew conway")
@@ -82,12 +82,11 @@ lapply(list, function, args)
 ```
 *looping internally in C code*
 
-
 ##Getting and Cleaning Data
 
 - raw vs tidy data
-	- RAW: original, hard to use, processing needed, processed once(maybe)
-	- PROCESSED: ready, (merge, subsetting, transforming), may need standards, recordable
+	- **RAW:** original, hard to use, processing needed, processed once(maybe)
+	- **PROCESSED:** ready, (merge, subsetting, transforming), may need standards, recordable
 - download 
 - reading: XLS, JSON, MySQL, ...
 	- listing DBs
