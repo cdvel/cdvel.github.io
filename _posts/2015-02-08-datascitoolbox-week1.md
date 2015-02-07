@@ -25,11 +25,14 @@ layout: post
 ###Some important R functions
 
 *help function*
+
 ```R
 ?rnorm
 help.search("rnorm")
 ```
+
 *get arguments*
+
 ```R
 args("rnorm")
 ```
@@ -72,11 +75,13 @@ con <-url("uri")
 x <- readLines(con)
 >head(x)
 ```
+
 ### apply function to all elements
 
 ```R
 lapply(list, function, args) 
 ```
+
 *looping internally in C code*
 
 ##Getting and Cleaning Data
@@ -94,6 +99,7 @@ lapply(list, function, args)
 	dbDisconnect(db)
 	result
 	```
+
 - merging
 
 	```R
@@ -101,6 +107,7 @@ lapply(list, function, args)
 	head(merged[,1:6], 3)
 	reviews[1, 1:6]
 	```
+
 - reshaping
 - summarizing
 - finding/replacing
