@@ -1,7 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-highlighter: pygments
-github: [Repository metadata]
+# Setup
+title:            Poole
+tagline:          The Jekyll Butler
+url:              http://getpoole.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Mark Otto
+  url:            https://twitter.com/mdo
+  email:          markdotto@gmail.com
 
-markdown: redcarpet2
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
