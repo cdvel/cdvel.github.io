@@ -1,5 +1,7 @@
+
 highlighter: pygments
 github: [Repository metadata]
-safe: true
-lsi: false
-source: your top-level directory
+
+markdown: redcarpet2
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
