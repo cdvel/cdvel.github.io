@@ -3,13 +3,13 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Cesar D. Velandia
-tagline:          My Github-hosted online notebook
+title:            C&eacute;sar D. Velandia
+tagline:          Github-hosted log
 url:              http://cesarvelandia.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Cesar Velandia
+  name:           C&eacute;sar Velandia
   url:            https://twitter.com/cesardvelandia
   email:          c@cesarvelandia.com
 
@@ -21,3 +21,5 @@ github:
 pages_list:       
   Archive: '/archive'
   Feed: '/atom.xml'
+  Web: 'http://cesarvelandia.com'
+	
