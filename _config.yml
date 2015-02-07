@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Cesar D. Velandia
-tagline:          Github-hosted log
+tagline:          A Jekyll-powered online notebook
 url:              http://cesarvelandia.github.io
 paginate:         1
 baseurl:          /
