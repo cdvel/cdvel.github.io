@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            cesarvelandia
+tagline:          github page based on poole
+url:              http://cesarvelandia.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Cesar Velandia
+  url:            https://twitter.com/cesardvelandia
+  email:          c@cesarvelandia.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/cesarvelandia/cesarvelandia.github.io
