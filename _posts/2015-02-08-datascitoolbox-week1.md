@@ -2,9 +2,6 @@
 title: Data Scientist's Toolbox - Week 1
 layout: post
 ---
-#Data Scientist's Toolbox - 
-
-**Week 1 (Overview)**
 
 ##Overview
 
