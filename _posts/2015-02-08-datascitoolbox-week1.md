@@ -7,30 +7,30 @@ layout: post
 
 ###What a data scientist do?
 
-1. question
-2. ideal data set
-3. what can u access
+1. find the right question
+2. figure out the ideal data set
+3. figure out what can be accessed
 4. obtain data
 5. clean data
-6. exploratory analysyis
-7. stat prediction modeling
-8. interpret
-9. challenge
-10. synthe / write
+6. perform exploratory analyses
+7. develop statistical and prediction models
+8. interpret results
+9. challenge results
+10. synthesize / write results
 11. create reproducible code
-12. distribute to 
+12. distribute findings to others
 
 ##Getting help
 
 ###Some important R functions
 
 *help function*
-```
+```R
 ?rnorm
 help.search("rnorm")
 ```
 *get arguments*
-```
+```R
 args("rnorm")
 ```
 
@@ -107,3 +107,6 @@ lapply(list, function, args)
 - data resources
 
 ##Reproducible research
+
+
+
