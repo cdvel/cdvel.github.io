@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Cesar D. Velandia
 tagline:          A Jekyll-powered online notebook
 url:              http://cesarvelandia.github.io
-paginate:         5
+paginate:         3
 baseurl:          /
 author:
   name:           Cesar Velandia
