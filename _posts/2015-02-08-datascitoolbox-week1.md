@@ -113,7 +113,101 @@ lapply(list, function, args)
 - finding/replacing
 - data resources
 
-##Reproducible research
 
 
+##Exploraratory analysis
+
+1. Analytic Graphics principles
+	1. show comparisons
+	2. show causality, mechanism, explanation
+	3. show multivariate data
+	4. integrate multiple modes of evidence
+	5. describe and document the evidence
+	6. content is king
+2. Exploratory graphs
+3. Plotting systems in R
+4. Hierarchical clustering
+5. K-Means clustering
+6. Dimension reduction
+
+## Reproducible research
+
+1. Data analysis: structure
+	- *look up*
+	- Files:
+		- Data: raw and processed
+		- Figures: exploratory and final
+		- R code: raw and final scripts, R markdown 
+		- Text: Readme, text of analysis
+
+2. Data analysis: organizing
+3. Markdown
+4. LaTeX
+5. R Markdown
+6. Evidence-based data analysis
+7. RPubs
+
+
+## Statistical inference
+
+1. Basic probability
+2. Likelihood
+3. Common distributions
+	- normal, gaussian, standard...
+4. Asymptotics
+5. Confidence intervals
+6. Hypothesis tests
+7. Power
+8. Bootstrapping
+9. Non-parametric tests
+10. Basic bayesian stats
+
+## Regression Models
+
+1. Linear regression
+2. Multiple regression
+3. Confounding
+4. Residuals and diagnostics
+5. Prediction using linear models
+6. Model misspecification
+7. Scatterplot smoothing/splines
+8. Machine learning via regression
+9. Resampling inference in regression, bootstrapping, permutation tests
+10. Weighted regression
+11. Mixed models (random intercepts)
+
+## Practical Machine Learning
+
+1. Prediction Study Desing
+2. Type Of Errors
+3. Cross Validation
+4. The Caret Package
+5. Plotting For Prediction
+6. Preprocessing
+7. Predicting With Regression
+8. Predicting With Trees
+9. Boosting
+	- AdaBoost
+10. Bagging
+11. Model Blending
+12. Forecasting
+
+- sensitivity and specificity
+- correlated predictors
+
+## Building Data Products
+
+1. R packages
+	- devtools
+	- roxygen
+	- testthat
+2. rCharts
+3. Slidify
+4. Shiny
+
+## Installing R
+
+
+
+## Installing RStudio
 
