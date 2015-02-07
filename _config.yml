@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            cesarvelandia
-tagline:          github page based on poole
+title:            Cesar D. Velandia
+tagline:          My Github-hosted online notebook
 url:              http://cesarvelandia.github.io
 paginate:         1
 baseurl:          /
@@ -17,3 +17,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/cesarvelandia/cesarvelandia.github.io
+
+pages_list:       
+  Archive: '/archive'
+  Feed: '/atom.xml'
