@@ -1,10 +1,11 @@
-# About
+twitter.github.com
+======
 
-*A github-hosted Jekyll-powered Poole-based blog
+The source code of http://twitter.github.com/
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+LICENSE
+------------
 
------
+Copyright 2012 Twitter, Inc.
 
-See Poole in action with [the demo site](http://demo.getpoole.com).
-
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
