@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>cesarvelandia.github.io</title>
+    <title>cdvel.github.io</title>
     <link rel="stylesheet" type="text/css" href="assets/reset.css">
     <link rel="stylesheet" type="text/css" href="assets/grid.css">
     <link rel="stylesheet" type="text/css" href="assets/style.css">
@@ -83,7 +83,7 @@
         repos = repos || [];
         page = page || 1;
 
-        var uri = "https://api.github.com/users/cesarvelandia/repos?callback=?"
+        var uri = "https://api.github.com/users/cdvel/repos?callback=?"
                 + "&per_page=100"
                 + "&page="+page;
 
@@ -143,7 +143,7 @@
       function getNumMembers(page, numMembers) {
         var page = page || 1;
         var numMembers = numMembers || 0;
-        var membersUri = "https://api.github.com/users/cesarvelandia/starred?callback=?"
+        var membersUri = "https://api.github.com/users/cdvel/starred?callback=?"
           + "&per_page=100"
           + "&page="+page;
 
@@ -209,15 +209,15 @@
         <div id="statistics" class="grid-1 alpha header">
           <h1>Statistics</h1>
           <p>
-            <a href="https://github.com/cesarvelandia/repositories"><span id="num-repos"><img src="assets/spinner.gif" /></span> public repos</a>
+            <a href="https://github.com/cdvel/repositories"><span id="num-repos"><img src="assets/spinner.gif" /></span> public repos</a>
             <br>
-            <a href="https://github.com/cesarvelandia/stars"><span id="num-members"><img src="assets/spinner.gif" /></span> starred</a>
+            <a href="https://github.com/cdvel/stars"><span id="num-members"><img src="assets/spinner.gif" /></span> starred</a>
           </p>
           <p class="email"><a href="mailto:cesar@velandia.co">cesar@velandia.co</a></p>
         </div>
 
         <div id="recently-updated" class="grid-2 omega header">
-          <h1>Recently updated <a href="https://github.com/cesarvelandia/repositories">View All on GitHub</a></h1>
+          <h1>Recently updated <a href="https://github.com/cdvel/repositories">View All on GitHub</a></h1>
           <ol id="recently-updated-repos"></ol>
         </div>
       </div>
